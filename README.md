@@ -9,7 +9,8 @@ the Data Searching & Managing Tool saves the data given by the user and allows t
 The user can add multiple data in format(Name,email,number) in the respective entry boxes 
 user can also search data entered by different user's
 
-**#Technologies used **:
+**#Technologies used** :
+
 Language used : **Python**
 also : Tkinter , Regular Expression (Regex) , File Handling , Data Stuctures etc
 
