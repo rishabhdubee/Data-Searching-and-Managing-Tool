@@ -10,7 +10,6 @@ The user can add multiple data in format(Name,email,number) in the respective en
 user can also search data entered by different user's
 
 **#Technologies used** :
-
 Language used : **Python**
 also : Tkinter , Regular Expression (Regex) , File Handling , Data Stuctures etc
 
