@@ -15,6 +15,7 @@ Language used : **Python**
 also : Tkinter , Regular Expression (Regex) , File Handling , Data Stuctures etc
 
 **#How to use**: Data Searching & Managing Tool
+
 First of all the user will be asked a question if he/she wants to enter data or not(search data)
     If the user enters "Yes" the Data Searching & Managing Tool will show options and entery boxes to enter data
 and save the data in the database(file)
