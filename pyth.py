@@ -4,7 +4,6 @@ root=Tk()
 root.title("Data Searching tool")
 root.geometry("600x400")
 root.config(bg="#1e1e1e")
-
 found=False
 
 def check_choice():
